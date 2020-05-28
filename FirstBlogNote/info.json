@@ -1,5 +1,10 @@
 {
     "title": "First Blog Note",
+    "topic": "Misc",
+    "description": "This is the first blog note",
+    "language": "English",
     "date": "2020-05-28",
-    "tags": ["Blog", "Hello world"]
+    "tags": ["Blog", "Hello world"],
+    "previewImageUrl": "https://raw.githubusercontent.com/santoro-mariano/blog/master/firstBlogNote/assets/preview.jpg",
+    "headerImageUrl": "https://raw.githubusercontent.com/santoro-mariano/blog/master/firstBlogNote/assets/header.jpg"
 }
