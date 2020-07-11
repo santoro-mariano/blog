@@ -44,15 +44,15 @@ Wait... WHAT?? .Net Standard?
 
 I thought mono could run .Net Standard libraries...
 
-![confusion meme](./assets/confusedmeme.jpg "Confused")
+![confusion meme](https://github.com/santoro-mariano/blog/raw/master/mono-net-standard/assets/confusedmeme.jpg "Confused")
 
 As every single software developer in this world, the first thing I did was ask to my friend google "What the heck is happening???" and, of course, it already had the answer (sort of):
 
-![github issue](./assets/github.jpg "Github Issue")
+![github issue](https://github.com/santoro-mariano/blog/raw/master/mono-net-standard/assets/github.jpg "Github Issue")
 
 More precisely, then solution was here:
 
-![github issue](./assets/answer.jpg "Github Issue")
+![github issue](https://github.com/santoro-mariano/blog/raw/master/mono-net-standard/assets/answer.jpg "Github Issue")
 
 Once I installed mono completely and not just the runtime, it worked like a charm.
 
